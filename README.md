@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://sathyakatrapalli2007.github.io/article-preview-master-component/
+- Live Site URL: https://sathyakatrapalli2007.github.io/article-preview-master-component/g
 
 ### Built With
 
